@@ -50,7 +50,7 @@ def get_mean_std(matrix):
     std = []
     for item in np.transpose(matrix):
         mean.append(np.mean(item[item>0.00001]))
-        std.append(np.std(item[item>0.00001]))
+        std.append(max(1, np.std(item[item>0.00001])))
     
     return mean, std
 
