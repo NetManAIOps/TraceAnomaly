@@ -17,9 +17,9 @@ tfsnippet (tfsnippet package is copied from tfsnippet project:https://github.com
 ## Dataset
 Training set: train_ticket/train.zip
 
-Test normal trace: train_ticket/test_normal.zip
+Test normal traces: train_ticket/test_normal.zip
 
-Test anomalous trace: train_ticket/test_abnormal.zip
+Test anomalous traces: train_ticket/test_abnormal.zip
 ## Usage
 run.sh
 
