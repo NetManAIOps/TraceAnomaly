@@ -22,4 +22,7 @@ Test normal traces: train_ticket/test_normal.zip
 Test anomalous traces: train_ticket/test_abnormal.zip
 ## Usage
 run.sh
+ 
+## Fitting performance 
+![Figure 1](/result.png)
 
