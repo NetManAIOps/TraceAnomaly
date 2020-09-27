@@ -1,5 +1,8 @@
 # TraceAnomaly
-Detecting anomalous traces of microservice system
+Detecting anomalous traces of microservice system.
+
+# Paper
+Ping Liu, Haowen Xu, Qianyu Ouyang, Rui Jiao, Zhekang Chen, Shenglin Zhang, Jiahai Yang, Linlin Mo, Jice Zeng, Wenman Xue, Dan Pei. ``Unsupervised Detection of Microservice Trace Anomalies through Service-Level Deep Bayesian Networks". 31ht International Symposium on Software Reliability Engineering (ISSRE). IEEE, 2020
 
 ## Dependencies
 
