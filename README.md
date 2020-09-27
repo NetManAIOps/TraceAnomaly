@@ -19,7 +19,7 @@ Training set: train_ticket/train.zip
 
 Test set: train_ticket/test.zip
 
-Test set label: train_ticket/anomalous_trace_id.txt contains the IDs of all anomalous traces. 
+Anomalous traces in test set: train_ticket/anomalous_trace_id.txt contains the IDs of all anomalous traces. 
 ## Usage
 run.sh
 
