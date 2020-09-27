@@ -23,6 +23,6 @@ Test anomalous traces: train_ticket/test_abnormal.zip
 ## Usage
 run.sh
  
-## Fitting performance 
+## Comparison of Learning Distribution
 ![Figure 1](/result.png)
 
