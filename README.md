@@ -30,5 +30,6 @@ Test anomalous traces: train_ticket/test_abnormal.zip
 run.sh
  
 ## Comparison of Learning Distribution
+
 ![image](https://github.com/NetManAIOps/TraceAnomaly/traceanomaly/performance.png)
 
