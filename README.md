@@ -15,7 +15,7 @@ yaml
 
 tfsnippet (tfsnippet package is copied from tfsnippet project:https://github.com/haowen-xu/tfsnippet)
 ### Docker Image
-TraceAnomaly can be run directly in the Docker image: **ilence1990/docker_for_traceanomaly:latest**
+TraceAnomaly can be run directly in the Docker image: **silence1990/docker_for_traceanomaly:latest**
 
 ```bash
 docker pull silence1990/docker_for_traceanomaly:latest
