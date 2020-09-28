@@ -17,7 +17,10 @@ tfsnippet (tfsnippet package is copied from tfsnippet project:https://github.com
 ### Docker Image
 TraceAnomaly can be run directly in the Docker image:silence1990/docker_for_traceanomaly:latest
 
-Docker command: docker pull silence1990/docker_for_traceanomaly:latest
+Docker command:
+'''bash
+docker pull silence1990/docker_for_traceanomaly:latest
+'''
 ## Dataset
 Training set: train_ticket/train.zip
 
