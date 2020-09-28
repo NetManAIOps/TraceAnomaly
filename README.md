@@ -31,5 +31,5 @@ run.sh
  
 ## Comparison of Learning Distribution
 
-![image](https://github.com/NetManAIOps/TraceAnomaly/traceanomaly/performance.png)
+![image](https://github.com/NetManAIOps/TraceAnomaly/blob/master/traceanomaly/performance.png)
 
