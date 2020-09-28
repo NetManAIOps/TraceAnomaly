@@ -9,6 +9,8 @@ def read_raw_vector(input_file, vc=None, shuffle=True, sample=False):  # flows, 
     flows = list()
     vectors = list()
     for line in raw:
+        if line.strip() == "":
+            continue
         flows.append(line.split(':')[0])
         vectors.append([float(x) for x in line.split(':')[1].split(',')])
         
