@@ -7,13 +7,12 @@ Ping Liu, Haowen Xu, Qianyu Ouyang, Rui Jiao, Zhekang Chen, Shenglin Zhang, Jiah
 paper download（论文下载）：https://netman.aiops.org/wp-content/uploads/2020/09/%E5%88%98%E5%B9%B3issre.pdf
 ## Dependencies
 
-TensorFlow >= 1.5
+Python == 3.6
 
-pandas
+```shell
+pip install -r requirements.txt
+```
 
-yaml
-
-tfsnippet (tfsnippet package is copied from tfsnippet project:https://github.com/haowen-xu/tfsnippet)
 ### Docker Image
 TraceAnomaly can be run directly in the Docker image: **silence1990/docker_for_traceanomaly:latest**
 
@@ -27,8 +26,11 @@ Test normal traces: train_ticket/test_normal.zip
 
 Test anomalous traces: train_ticket/test_abnormal.zip
 ## Usage
-run.sh
- 
+
+```shell
+./run.sh
+```
+
 ## Comparison of Learning Distribution
 
 ![image](https://github.com/NetManAIOps/TraceAnomaly/blob/master/traceanomaly/performance.png)
